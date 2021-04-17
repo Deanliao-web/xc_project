@@ -1,0 +1,1215 @@
+{
+  "data1": [
+    {
+      "brand": "ISA",
+      "bname": "ISA时装(中港城店)",
+      "country": "中国",
+      "city": "香港",
+      "image": "/img/detailisa.jpg",
+      "img_url1": "background:url(/img/detailbackground.png) no-repeat;",
+      "img_url2": "background:url(/img/detailbackground.png) no-repeat;",
+      "others_1": {
+        "discount_name": "银联特惠",
+        "discount_content": "立享8折+折后满额立减1000港币/澳门..."
+      },
+      "others_2": {
+        "discount_name": "银联特惠",
+        "discount_content": "立享8折+折后满额减100港币/澳门元..."
+      },
+      "id": 1
+    },
+    {
+      "brand": "ISA",
+      "bname": "ISA时装(弥敦道店)",
+      "country": "中国",
+      "city": "香港",
+      "image": "/img/detailisa2.jpg",
+      "img_url1": "background:url(/img/detailbackground.png) no-repeat;",
+      "img_url2": "background:url(/img/detailbackground.png) no-repeat;",
+      "others_1": {
+        "discount_name": "银联特惠",
+        "discount_content": "立享8折+折后满额立减1000港币/澳门..."
+      },
+      "others_2": {
+        "discount_name": "银联特惠",
+        "discount_content": "立享8折+折后满额减100港币/澳门元..."
+      },
+      "id": 2
+    },
+    {
+      "brand": "ISA",
+      "bname": "ISA时装(澳门分店)",
+      "country": "中国",
+      "city": "澳门",
+      "image": "/img/detailisa3.jpg",
+      "img_url1": "background:url(/img/detailbackground.png) no-repeat;",
+      "img_url2": "background:url(/img/detailbackground.png) no-repeat;",
+      "others_1": {
+        "discount_name": "银联特惠",
+        "discount_content": "立享8折+折后满额立减1000港币/澳门..."
+      },
+      "others_2": {
+        "discount_name": "银联特惠",
+        "discount_content": "立享8折+折后满额减100港币/澳门元..."
+      },
+      "id": 3
+    },
+    {
+      "brand": "ISA",
+      "bname": "ISA时装(广东道店)",
+      "country": "中国",
+      "city": "香港",
+      "image": "/img/detailisa4.jpg",
+      "img_url1": "background:url(/img/detailbackground.png) no-repeat;",
+      "img_url2": "background:url(/img/detailbackground.png) no-repeat;",
+      "others_1": {
+        "discount_name": "银联特惠",
+        "discount_content": "立享8折+折后满额立减1000港币/澳门..."
+      },
+      "others_2": {
+        "discount_name": "银联特惠",
+        "discount_content": "立享8折+折后满额减100港币/澳门元..."
+      },
+      "id": 4
+    },
+    {
+      "brand": "ISA",
+      "bname": "ISA时装(澳门旗舰店)",
+      "country": "中国",
+      "city": "澳门",
+      "image": "/img/detailisa5.jpg",
+      "img_url1": "background:url(/img/detailbackground.png) no-repeat;",
+      "img_url2": "background:url(/img/detailbackground.png) no-repeat;",
+      "others_1": {
+        "discount_name": "银联特惠",
+        "discount_content": "立享8折+折后满额立减1000港币/澳门..."
+      },
+      "others_2": {
+        "discount_name": "银联特惠",
+        "discount_content": "立享8折+折后满额减100港币/澳门元..."
+      },
+      "id": 5
+    },
+    {
+      "brand": "ISA",
+      "bname": "ISA时装(奥特莱斯)",
+      "country": "中国",
+      "city": "香港",
+      "image": "/img/detailisa6.jpg",
+      "img_url1": "background:url(/img/detailbackground.png) no-repeat;",
+      "img_url2": "background:url(/img/detailbackground.png) no-repeat;",
+      "others_1": {
+        "discount_name": "银联特惠",
+        "discount_content": "立享8折+折后满额立减1000港币/澳门..."
+      },
+      "others_2": {
+        "discount_name": "银联特惠",
+        "discount_content": "立享8折+折后满额减100港币/澳门元..."
+      },
+      "id": 6
+    }
+  ],
+  "data2": [
+    {
+      "brand": "ISA",
+      "bname": "ISA时装(新港中心店)",
+      "country": "中国",
+      "city": "澳门",
+      "image": "/img/detailisa21.jpg",
+      "img_url1": "",
+      "img_url2": "background:url(/img/detailbackground2.jpg) no-repeat;",
+      "others_1": {
+        "discount_name": "",
+        "discount_content": ""
+      },
+      "others_2": {
+        "discount_name": "返现券",
+        "discount_content": "预约到店享3%携程返现"
+      },
+      "id": 7
+    },
+    {
+      "brand": "ISA",
+      "bname": "ISA时装(广东道店)",
+      "country": "中国",
+      "city": "香港",
+      "image": "/img/detailisa22.jpg",
+      "img_url1": "background:url(/img/detailbackground2.jpg) no-repeat;",
+      "img_url2": "background:url(/img/detailbackground2.jpg) no-repeat;",
+      "others_1": {
+        "discount_name": "返现券",
+        "discount_content": "携程返现2%"
+      },
+      "others_2": {
+        "discount_name": "返现券",
+        "discount_content": "预约到店享3%携程返现"
+      },
+      "id": 8
+    },
+    {
+      "brand": "ISA",
+      "bname": "ISA时装(汉口中心旗舰店)",
+      "country": "中国",
+      "city": "香港",
+      "image": "/img/detailisa23.jpg",
+      "img_url1": "",
+      "img_url2": "background:url(/img/detailbackground2.jpg) no-repeat;",
+      "others_1": {
+        "discount_name": "",
+        "discount_content": ""
+      },
+      "others_2": {
+        "discount_name": "返现券",
+        "discount_content": "预约到店享3%携程返现"
+      },
+      "id": 9
+    },
+    {
+      "brand": "Vacheron Constantin（LOTTE AVENUEL）",
+      "bname": "江诗丹顿（LOTTE AVENUEL店）",
+      "country": "韩国",
+      "city": "首尔",
+      "image": "/img/detailjs24.jpg",
+      "img_url1": "",
+      "img_url2": "background:url(/img/detailbackground2.jpg) no-repeat;",
+      "others_1": {
+        "discount_name": "",
+        "discount_content": ""
+      },
+      "others_2": {
+        "discount_name": "返现券",
+        "discount_content": "预约到店享3%携程返现"
+      },
+      "id": 10
+    },
+    {
+      "brand": "Vacheron Constantin（1881 HERITAGE）",
+      "bname": "江诗丹顿（1881 HERITAGE店）",
+      "country": "中国",
+      "city": "香港",
+      "image": "/img/detailjs25.jpg",
+      "img_url1": "background:url(/img/detailbackground2.jpg) no-repeat;",
+      "img_url2": "background:url(/img/detailbackground2.jpg) no-repeat;",
+      "others_1": {
+        "discount_name": "返现券",
+        "discount_content": "预约到店享3%携程返现"
+      },
+      "others_2": {
+        "discount_name": "返现券",
+        "discount_content": "携程返现2%"
+      },
+      "id": 11
+    },
+    {
+      "brand": "Vacheron Constantin（GALLERIA）",
+      "bname": "江诗丹顿（格乐丽雅店）",
+      "country": "韩国",
+      "city": "首尔",
+      "image": "/img/detailjs26.jpg",
+      "img_url1": "",
+      "img_url2": "background:url(/img/detailbackground2.jpg) no-repeat;",
+      "others_1": {
+        "discount_name": "",
+        "discount_content": ""
+      },
+      "others_2": {
+        "discount_name": "返现券",
+        "discount_content": "预约到店享3%携程返现+退税"
+      },
+      "id": 12
+    }
+  ],
+  "places": [
+    {
+      "places": "香港"
+    },
+    {
+      "places": "东京"
+    },
+    {
+      "places": "巴黎"
+    },
+    {
+      "places": "大阪"
+    },
+    {
+      "places": "澳门"
+    },
+    {
+      "places": "新加坡"
+    },
+    {
+      "places": "洛杉矶"
+    },
+    {
+      "places": "伦敦"
+    }
+  ],
+  "hot_destinations": [
+    {
+      "id": 30,
+      "results": [
+        {
+          "image": "destination1.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "立减券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination2.jpg",
+          "img_url1": "background:url(/img/detailbackground3.jpg) no-repeat;",
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": "立减券",
+          "discount_name2": "赠礼券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination3.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination4.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "立减券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination5.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination6.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination7.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground3.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination8.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground.png) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "银联特惠",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "results": [
+        {
+          "image": "destination9.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "立减券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination10.jpg",
+          "img_url1": "background:url(/img/detailbackground3.jpg) no-repeat;",
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": "立减券",
+          "discount_name2": "赠礼券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination11.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination12.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "立减券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination13.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination14.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination15.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground3.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination16.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground.png) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "银联特惠",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "results": [
+        {
+          "image": "destination17.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "立减券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination18.jpg",
+          "img_url1": "background:url(/img/detailbackground3.jpg) no-repeat;",
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": "立减券",
+          "discount_name2": "赠礼券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination19.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination20.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "立减券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination21.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination22.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination23.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground3.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination24.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground.png) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "银联特惠",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "results": [
+        {
+          "image": "destination25.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "立减券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination26.jpg",
+          "img_url1": "background:url(/img/detailbackground3.jpg) no-repeat;",
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": "立减券",
+          "discount_name2": "赠礼券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination27.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination28.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "立减券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination29.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination30.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination31.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground3.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination32.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground.png) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "银联特惠",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "results": [
+        {
+          "image": "destination33.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "立减券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination34.jpg",
+          "img_url1": "background:url(/img/detailbackground3.jpg) no-repeat;",
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": "立减券",
+          "discount_name2": "赠礼券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination35.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination36.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "立减券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination37.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination38.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination39.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground3.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination40.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground.png) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "银联特惠",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "results": [
+        {
+          "image": "destination41.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "立减券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination42.jpg",
+          "img_url1": "background:url(/img/detailbackground3.jpg) no-repeat;",
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": "立减券",
+          "discount_name2": "赠礼券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination43.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination44.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "立减券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination45.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination46.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination47.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground3.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination48.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground.png) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "银联特惠",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "results": [
+        {
+          "image": "destination49.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "立减券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination50.jpg",
+          "img_url1": "background:url(/img/detailbackground3.jpg) no-repeat;",
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": "立减券",
+          "discount_name2": "赠礼券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination51.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination52.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "立减券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination53.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination54.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination55.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground3.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination56.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground.png) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "银联特惠",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "results": [
+        {
+          "image": "destination57.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "立减券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination58.jpg",
+          "img_url1": "background:url(/img/detailbackground3.jpg) no-repeat;",
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": "立减券",
+          "discount_name2": "赠礼券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination59.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination61.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "立减券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination61.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination62.png",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground4.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination63.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground3.jpg) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "返现券",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        },
+        {
+          "image": "destination64.jpg",
+          "img_url1": null,
+          "img_url2": "background:url(/img/detailbackground.png) no-repeat;",
+          "discount_name1": null,
+          "discount_name2": "银联特惠",
+          "bname": "DFS T Galleria（Hong Kong Canton Road）",
+          "location": "DFS旗下T广场（香港广东道店）"
+        }
+      ]
+    }
+  ],
+  "containentandplaces":[
+    {
+      "id":38,
+      "containent":"亚洲",
+      "children":[
+        "中国","日本","新加坡","韩国","马来西亚","泰国","沙特阿拉伯","马尔代夫"
+      ]
+    },
+    {
+      "id":39,
+      "containent":"欧洲",
+      "children":[
+        "法国","英国","德国","意大利","西班牙","俄罗斯","瑞士","荷兰"
+      ]
+    },
+    {
+      "id":40,
+      "containent":"大洋洲",
+      "children":[
+        "澳大利亚","新西兰","斐济","帕劳"
+      ]
+    },
+    {
+      "id":41,
+      "containent":"北美洲",
+      "children":[
+        "美国","加拿大","墨西哥","古巴","巴拿马"
+      ]
+    },
+    {
+      "id":42,
+      "containent":"南美洲",
+      "children":[
+        "巴西","阿根廷","哥伦比亚","秘鲁"
+      ]
+    },
+    {
+      "id":43,
+      "containent":"非洲",
+      "children":[
+        "南非","埃及","摩洛哥","毛里求斯","肯尼亚","埃塞俄比亚"
+      ]
+    }
+  ],
+  "countryandplaces":[
+    {
+      "id":44,
+      "name":"中国",
+      "children":[
+        "全部","北京","上海","南京","天津","河北","武汉","广州","深圳","重庆","哈尔滨","西安","宝鸡","河南","贵州","杭州","苏州","合肥","长沙","广西","云南","桂林","东北"
+      ]
+    },
+    {
+      "id":45,
+      "name":"日本",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    },
+    {
+      "id":46,
+      "name":"新加坡",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    },
+    {
+      "id":47,
+      "name":"韩国",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":48,
+      "name":"马来西亚",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    },
+    {
+      "id":49,
+      "name":"泰国",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":50,
+      "name":"沙特阿拉伯",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":51,
+      "name":"马尔代夫",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    },
+    {
+      "id":52,
+      "name":"法国",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+        
+    {
+      "id":53,
+      "name":"英国",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    },   
+    {
+      "id":54,
+      "name":"德国",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    },   
+    {
+      "id":55,
+      "name":"意大利",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    },
+    {
+      "id":56,
+      "name":"西班牙",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    },
+    {
+      "id":57,
+      "name":"俄罗斯",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":58,
+      "name":"瑞士",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":59,
+      "name":"荷兰",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":60,
+      "name":"澳大利亚",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":61,
+      "name":"新西兰",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    },  
+    {
+      "id":62,
+      "name":"斐济",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":63,
+      "name":"帕劳",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":64,
+      "name":"美国",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":65,
+      "name":"加拿大",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":66,
+      "name":"墨西哥",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":67,
+      "name":"古巴",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":68,
+      "name":"巴拿马",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":69,
+      "name":"巴西",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    },
+    {
+      "id":70,
+      "name":"阿根廷",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":71,
+      "name":"哥伦比亚",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":72,
+      "name":"秘鲁",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":73,
+      "name":"南非",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":74,
+      "name":"埃及",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":75,
+      "name":"摩洛哥",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":76,
+      "name":"毛里求斯",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":77,
+      "name":"肯尼亚",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }, 
+    {
+      "id":78,
+      "name":"埃塞俄比亚",   
+      "children":[
+        "全部","东京","大阪","京都","北海道","福冈","名古屋","千叶","冲绳","神户","横滨","那霸","仙台","富山","福岛","静冈","松山","秋田","北九州","日立市","西宫市","奈良","长崎"
+      ]  
+    }    
+  ],
+  "index":[
+    {
+      "id":52,
+      "title":"热门",
+      "children":[
+        {"place":"香港","color":"warning"},
+        {"place":"东京","color":"white"},
+        {"place":"巴黎","color":"white"},
+        {"place":"洛杉矶","color":"white"}       
+      ]
+    },
+    {
+      "id":53,
+      "title":"亚太",
+      "children":[
+        {"place":"香港","color":"white"},
+        {"place":"东京","color":"warning"},
+        {"place":"新加坡","color":"white"},
+        {"place":"冲绳","color":"white"},
+        {"place":"澳门","color":"white"},
+        {"place":"大阪","color":"white"},
+        {"place":"悉尼","color":"white"},
+        {"place":"台北","color":"white"},
+        {"place":"曼谷","color":"white"},
+        {"place":"普吉岛","color":"white"},
+        {"place":"奥克兰","color":"white"},
+        {"place":"首尔","color":"white"},
+        {"place":"济州","color":"white"}      
+      ]
+    },
+    {
+      "id":54,
+      "title":"欧洲",
+      "children":[
+        {"place":"巴黎","color":"warning"},
+        {"place":"伦敦","color":"white"},
+        {"place":"巴塞罗那","color":"white"},
+        {"place":"米兰","color":"white"},
+        {"place":"佛罗伦萨","color":"white"},
+        {"place":"马德里","color":"white"},
+        {"place":"法兰克福","color":"white"},
+        {"place":"慕尼黑","color":"white"},
+        {"place":"柏林","color":"white"},
+        {"place":"威尼斯","color":"white"}
+      ]
+    },
+    {
+      "id":54,
+      "title":"美洲&非洲",
+      "children":[
+        {"place":"纽约","color":"white"},
+        {"place":"旧金山","color":"white"},
+        {"place":"洛杉矶","color":"warning"},
+        {"place":"开普勒","color":"white"}
+      ]
+    }
+  ]
+}
